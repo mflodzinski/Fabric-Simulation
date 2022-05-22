@@ -1,6 +1,7 @@
 Simulation of net-like fabric made in Unity using "Verlet integration"<br />
 
 -**right click** on a point to lock/unlock it<br />
+-**right click** on empty space to create point<br />
 -hold **right click** and drag the mouse on sticks to cut them<br />
 -**left click** on a point to connect it with a previous point with a stick (while simulation NOT running)<br />
 -**left click** on a point to drag it on the plane (while simulation running)<br />
