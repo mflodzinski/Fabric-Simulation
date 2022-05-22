@@ -6,7 +6,7 @@ WHILE SIMULATNG:<br />
 WHILE NOT SIMULATING:<br />
 -**right click** on empty space to create point<br />
 -**left click** on a point to connect it with a previous point with a stick<br />
--press**escape** to delete previous anchor point (then left click on point to select new anchor)
+-press **escape** to delete previous anchor point (then left click on point to select new anchor)
 
 BOTH:<br />
 -press **c** to clear the scene<br />
