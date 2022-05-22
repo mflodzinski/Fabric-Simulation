@@ -1,7 +1,7 @@
 Simulation of net-like fabric made in Unity using "Verlet integration"<br />
 
 WHILE SIMULATNG:<br />
--**left click** on a point to drag it on the plane<br />
+-**left click** on a point to drag it on the plane (either locked or unlocked)<br />
 
 WHILE NOT SIMULATING:<br />
 -**right click** on empty space to create point<br />
