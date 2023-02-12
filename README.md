@@ -14,4 +14,4 @@ BOTH:<br />
 -hold **right click** and drag the mouse on sticks to cut them<br />
 -**right click** on a point to lock/unlock it<br />
 
-![image](/uploads/9193917987959fe67fbb1cb1872916c2/image.png)
+https://user-images.githubusercontent.com/85826774/218332501-ed9d5b5e-475a-4920-af40-19e4a61c8ccf.mp4
