@@ -1,15 +1,15 @@
 # Fabric Simulation
 Simulation of net-like fabric made in Unity using Verlet Integration without any physics related build in functionalities<br />
 
-WHILE SIMULATNG:<br />
+# WHILE SIMULATNG:<br />
 -**left click** on a point to drag it on the plane (either locked or unlocked)<br />
 
-WHILE NOT SIMULATING:<br />
+# WHILE NOT SIMULATING:<br />
 -**right click** on empty space to create point<br />
 -**left click** on a point to connect it with a previous point with a stick<br />
 -press **escape** to delete previous anchor point (then left click on point to select new anchor)
 
-BOTH:<br />
+# BOTH:<br />
 -press **c** to clear the scene<br />
 -press **space** to start/stop the simulation<br />
 -hold **right click** and drag the mouse on sticks to cut them<br />
