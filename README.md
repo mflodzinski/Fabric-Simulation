@@ -1,5 +1,5 @@
 # Fabric Simulation
-Simulation of net-like fabric made in Unity using "Verlet integration"<br />
+Simulation of net-like fabric made in Unity using Verlet Integration without any physics related build in functionalities<br />
 
 WHILE SIMULATNG:<br />
 -**left click** on a point to drag it on the plane (either locked or unlocked)<br />
